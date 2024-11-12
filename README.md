@@ -1,5 +1,4 @@
 ### Docker Hub
-![Docker Hub](images/Docker%20hub.png){:width="800px"}
-
+![Docker hub](images/Docker%20hub.png)
 ### Docker Hub Program
-![Docker Hub Program](images/Docker%20hub%20program.png){:width="800px"}
+![Docker program run](images/Docker%20program%20run.png)
