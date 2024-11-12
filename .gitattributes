@@ -1,0 +1,2 @@
+*.py linguist-language=Python
+*.Dockerfile linguist-language=Dockerfile
